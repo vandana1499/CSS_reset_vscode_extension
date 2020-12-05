@@ -1,0 +1,29 @@
+{
+    "name": "css-code-snippet",
+    "displayName": "Css code snippet",
+    "description": "It provides css reset code.Inspired by minireset.css ",
+    "version": "0.0.1",
+    "icon":"icon.png",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptangular",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
