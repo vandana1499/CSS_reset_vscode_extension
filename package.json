@@ -1,8 +1,12 @@
 {
     "name": "css-code-snippet",
     "displayName": "Css code snippet",
-    "description": "It provides css reset code.Inspired by minireset.css ",
-    "version": "0.0.1",
+    "description": "It provides CSS code snippets. ",
+    "version": "2.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vandana1499/CSS_reset_vscode_extension"
+    },
     "icon":"icon.png",
     "engines": {
         "vscode": "^1.51.0"
@@ -25,5 +29,6 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
-    }
+    },
+    "publisher": "Vandana"
 }
