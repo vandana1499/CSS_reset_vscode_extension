@@ -18,6 +18,8 @@ Just install the extension and in any CSS file use this commands for code snippe
 6. !css-eric and tab (For Eric Meyer's CSS reset code)
 7. !css-tek and tab (For Tanktek CSS reset code)
 8. !css-tripoli and tab (For Tripoli CSS reset code)
+9. . and tab (Class block)
+10. (#) and tab (for Id block)
 
 ## Release Notes
 
@@ -25,7 +27,7 @@ Just install the extension and in any CSS file use this commands for code snippe
 
 An Initial release of the CSS code snippet
 
-###2.0.0
+###2.0.2
 
 The Updated release of the CSS code snippet
 
