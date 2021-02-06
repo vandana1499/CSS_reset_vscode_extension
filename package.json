@@ -2,7 +2,7 @@
     "name": "css-code-snippet",
     "displayName": "Css code snippet",
     "description": "It provides CSS code snippets. ",
-    "version": "2.0.2",
+    "version": "3.0.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/vandana1499/CSS_reset_vscode_extension"
@@ -30,5 +30,5 @@
             }
         ]
     },
-    "publisher": "Vandana"
+    "publisher": "vandana"
 }
